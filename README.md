@@ -1,5 +1,7 @@
 # Simple
 
+[![Language](https://img.shields.io/badge/language-PHP-777BB4)]
+
 [English](README.md) | [中文](README.zh-CN.md)
 
 A lightweight, minimalist theme for [Typecho](https://typecho.org/) designed by JRTx. Built with Bootstrap, featuring a clean blog layout with mobile responsiveness.
